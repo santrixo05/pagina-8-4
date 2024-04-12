@@ -1,5 +1,10 @@
-.Sociales{
-    width: 100px;
-    height: 1200px;
-    background-color: aqua;
+body{background-color: aqua;
+    width: 100%;
+    height:1200px
+
 }
+
+h1{text-align: center;
+}
+
+.PROYECTO{background-color:red;}
