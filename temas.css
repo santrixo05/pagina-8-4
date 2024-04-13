@@ -1,4 +1,4 @@
-body{background-color: coral;
+body{background-color: rgb(0, 0, 0);
     width: 100%;
     height:1200px
 }
@@ -14,7 +14,12 @@ font-family: Arial, Helvetica, sans-serif;
     
     
     font-size: 30px
+}
 
+.TECNOLOGIA{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: blue;
+    h2{text-align: center;}
+    h3{text-align: center;}
     
 
-}
+    font-size: 30px;}
