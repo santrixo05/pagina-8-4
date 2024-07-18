@@ -16,3 +16,11 @@ body{
     
 
 }
+.imgtec{
+
+height: 300px;
+width: 350px;
+background-image: url("circuitelectrico.jpg");
+background-repeat: no-repeat;
+
+}
