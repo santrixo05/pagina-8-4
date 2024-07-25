@@ -2,17 +2,19 @@
 
 .texto{
    
-    font-size: 50px;
+    font-size: 45px;
     padding-top: 140px;
     text-align: justify;
     color: white;
+
+    h2{text-align: center;}
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("fondoss.jpg");
+    background-image: url("fondo.jpeg");
     
 
 }
@@ -30,9 +32,6 @@ background-repeat: no-repeat;
 height: 300px;
 width: 350px;
 background-image: url(circuitoelec2.jpg);
-
-
-
 }
 
 
