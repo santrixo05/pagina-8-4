@@ -220,9 +220,23 @@ background-repeat: no-repeat;
 
 }
 
+.imgexcel{
+
+height: 300px;
+width: 400px;
+background-image: url(excel\ 1.png);
+background-repeat: no-repeat;
+}
+
+.imgexcel2 {
+
+height: 400px;
+width: 400px;
+background-image: url(excel\ 2.jpg);
+background-repeat: no-repeat;
 
 
-
+}
 
 
 
