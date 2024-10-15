@@ -239,12 +239,31 @@ background-repeat: no-repeat;
 }
 
 
+.logo {
+
+height: 450px;
+width: 450px;
+background-image: url(logo.jpg);
+background-position: center;
+background-repeat: no-repeat
+}
+
+.imgS {
+
+height: 450px;
+width: 450px;
+background-image: url(imgS.jpg);
+background-position: center;
+}
 
 
+.imgY{
 
-
-
-
+    height: 450px;
+    width: 450px;
+    background-image: url(imgY.jpg);
+    background-position: center;
+}
 
 
 
