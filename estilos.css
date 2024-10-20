@@ -6,8 +6,14 @@
     padding-top: 140px;
     text-align: justify;
     color: white;
+    text-align: left;
+     h2{text-align: center;}
+     h3,h2{text-align: center;}
+     h4{text-align: center;}
 
-    h2{text-align: center;}
+
+
+
 }
 .principal{
    display: flex;
@@ -266,7 +272,21 @@ background-position: center;
 }
 
 
+.mapaconceptual {
 
+    height: 800px;
+    width: 650px;
+    background-image: url(mapaconcep.png);
+    background-position: center;
+    background-repeat: no-repeat
+
+
+
+
+
+
+
+}
 
 
 
